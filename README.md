@@ -1,6 +1,8 @@
 # AI_Assignement1_UCS-Astar
 The support code in this project is provided by The University of Queensland. Author: Nicholas Collins. 
 
+The functions I have written is in the solution.py file, in the class Solver. 
+
 # Assignment 1 Support Code
 
 This is the support code for COMP3702 2022 Assignment 1 (HexBot).

@@ -70,7 +70,6 @@ class Solver:
         :return: path (list of actions, where each action is an element of ROBOT_ACTIONS)
         """
         # For being able to solve this UCS I looked at the tutorial3.py and got a lot of inspiration from their ucs function.
-        # Tried to do it on my own, but got stuck and were not able to solve it... 
         
         container = [StateNode(self.environment, self.environment.get_init_state(), None, None, 0, 0)]
         heapq.heapify(container)
