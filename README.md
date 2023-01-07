@@ -1,4 +1,5 @@
 # AI_Assignement1_UCS-Astar
+The support code in this project is provided by The University of Queensland. Author: Nicholas Collins. 
 
 # Assignment 1 Support Code
 
